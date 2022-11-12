@@ -1,0 +1,27 @@
+C:\Users\Art\source\repos\Dictionary\bin\Release\Dictionary.exe.config
+C:\Users\Art\source\repos\Dictionary\bin\Release\Dictionary.exe
+C:\Users\Art\source\repos\Dictionary\bin\Release\Dictionary.pdb
+C:\Users\Art\source\repos\Dictionary\obj\Release\Dictionary.csproj.AssemblyReference.cache
+C:\Users\Art\source\repos\Dictionary\obj\Release\Dictionary.EssentialWindows.resources
+C:\Users\Art\source\repos\Dictionary\obj\Release\Dictionary.PreparatoryWindow.resources
+C:\Users\Art\source\repos\Dictionary\obj\Release\Dictionary.InfoWindow.resources
+C:\Users\Art\source\repos\Dictionary\obj\Release\Dictionary.InitialWindow.resources
+C:\Users\Art\source\repos\Dictionary\obj\Release\Dictionary.Properties.Resources.resources
+C:\Users\Art\source\repos\Dictionary\obj\Release\Dictionary.csproj.GenerateResource.cache
+C:\Users\Art\source\repos\Dictionary\obj\Release\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Art\source\repos\Dictionary\obj\Release\Dictionary.exe
+C:\Users\Art\source\repos\Dictionary\obj\Release\Dictionary.pdb
+C:\Users\Art\Desktop\Программирование\pet projects\1. Dictionary\Dictionary\bin\Release\Dictionary.exe.config
+C:\Users\Art\Desktop\Программирование\pet projects\1. Dictionary\Dictionary\bin\Release\Dictionary.exe
+C:\Users\Art\Desktop\Программирование\pet projects\1. Dictionary\Dictionary\bin\Release\Dictionary.pdb
+C:\Users\Art\Desktop\Программирование\pet projects\1. Dictionary\Dictionary\obj\Release\Dictionary.csproj.AssemblyReference.cache
+C:\Users\Art\Desktop\Программирование\pet projects\1. Dictionary\Dictionary\obj\Release\Dictionary.csproj.SuggestedBindingRedirects.cache
+C:\Users\Art\Desktop\Программирование\pet projects\1. Dictionary\Dictionary\obj\Release\Dictionary.EssentialWindows.resources
+C:\Users\Art\Desktop\Программирование\pet projects\1. Dictionary\Dictionary\obj\Release\Dictionary.PreparatoryWindow.resources
+C:\Users\Art\Desktop\Программирование\pet projects\1. Dictionary\Dictionary\obj\Release\Dictionary.InfoWindow.resources
+C:\Users\Art\Desktop\Программирование\pet projects\1. Dictionary\Dictionary\obj\Release\Dictionary.InitialWindow.resources
+C:\Users\Art\Desktop\Программирование\pet projects\1. Dictionary\Dictionary\obj\Release\Dictionary.Properties.Resources.resources
+C:\Users\Art\Desktop\Программирование\pet projects\1. Dictionary\Dictionary\obj\Release\Dictionary.csproj.GenerateResource.cache
+C:\Users\Art\Desktop\Программирование\pet projects\1. Dictionary\Dictionary\obj\Release\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Art\Desktop\Программирование\pet projects\1. Dictionary\Dictionary\obj\Release\Dictionary.exe
+C:\Users\Art\Desktop\Программирование\pet projects\1. Dictionary\Dictionary\obj\Release\Dictionary.pdb
